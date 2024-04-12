@@ -1,8 +1,14 @@
-### Hi there 👋
+## Tech Stack
 
-![alt text here](https://ericmalcolm.com/static/media/eric-malcolm_billboard.d8b984cd5dea3b37c206.jpg)
+[<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5" alt="HTML5">](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=css3" alt="CSS3">](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">](https://developer.mozilla.org/en-US/docs/Web/Javascript)
+[<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">](https://www.typescriptlang.org/)
+[<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react" alt="React">](https://react.dev/)
 
-[<img src="https://ericmalcolm.com/static/media/eric-malcolm_billboard.d8b984cd5dea3b37c206.jpg" alt="alt text here">](https://ericmalcolm.com/)
+[<img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="MacOS">](https://www.apple.com/macos/)
+[<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code">](https://code.visualstudio.com/)
+
 <!--
 **ericmalcolm/ericmalcolm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
