@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 ![alt text here](https://ericmalcolm.com/static/media/eric-malcolm_billboard.d8b984cd5dea3b37c206.jpg)
+
+[<img src="https://ericmalcolm.com/static/media/eric-malcolm_billboard.d8b984cd5dea3b37c206.jpg" alt="alt text here">](https://ericmalcolm.com/)
 <!--
 **ericmalcolm/ericmalcolm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
