@@ -1,3 +1,6 @@
+## Summary
+I help architect and develop solutions to create usable, performant and accessible design systems, websites, and apps that work across multiple devices/platforms. After discovering my passion for web design I naturally progressed to web development with a focus on UI and UX. With 14+ years’ experience in web development, I have become well-versed in many areas of the web.
+
 ## Tech Stack
 
 ### Languages, Libraries, & Frameworks
