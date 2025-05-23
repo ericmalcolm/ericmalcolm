@@ -6,8 +6,8 @@ I help architect and develop solutions to create usable, performant and accessib
 ### Languages, Libraries, & Frameworks
 [<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5" alt="HTML5">](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3" alt="CSS3">](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">](https://developer.mozilla.org/en-US/docs/Web/Javascript)
-[<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">](https://www.typescriptlang.org/)
+[<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">](https://developer.mozilla.org/en-US/docs/Web/Javascript)
+[<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">](https://www.typescriptlang.org/)
 [<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react" alt="React">](https://react.dev/)
 [<img src="https://img.shields.io/badge/React%20router-000000?style=for-the-badge&logo=reactrouter" alt="React Router">](https://reactrouter.com/en/main)
 [<img src="https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux" alt="Redux">](https://redux.js.org/)
